@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/C4E16AQGMPAbxqeF3eQ/profile-displaybackgroundimage-shrink_350_1400/0/1647233320508?e=1678320000&v=beta&t=44lyTq_hVwVb6fWM5YL4L9vNgnkqGGM9u2zDUK2yleE)]
 <h1 align="center">Hi 👋, I'm Rushikesh Jawale</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
@@ -5,7 +6,7 @@
 - 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **rushikeshjawale2004@gmail.com**
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" height="500px" width="480px">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" height="500px" width="480px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imrushikesh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrushikesh77" height="30" width="40" /></a>
