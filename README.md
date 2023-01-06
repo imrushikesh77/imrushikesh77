@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **rushikeshjawale2004@gmail.com**
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" height="500px" width="480px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imrushikesh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrushikesh77" height="30" width="40" /></a>
