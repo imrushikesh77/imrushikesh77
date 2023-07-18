@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQGMPAbxqeF3eQ/profile-displaybackgroundimage-shrink_350_1400/0/1647233320508?e=1678320000&v=beta&t=44lyTq_hVwVb6fWM5YL4L9vNgnkqGGM9u2zDUK2yleE)]
+
 <h1 align="center">Hi 👋, I'm Rushikesh Jawale</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
