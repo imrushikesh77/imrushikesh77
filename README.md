@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/imrushikesh77" target="blank"><img src="https://img.shields.io/twitter/follow/imrushikesh77?logo=twitter&style=for-the-badge" alt="imrushikesh77" /></a> </p>
 
-- 🔭 I’m currently working on **Video dubbing using AI**
-
 - 🌱 I’m currently learning **Backend development**
 
 - 📫 How to reach me **rushikeshjawale2004@gmail.com**
