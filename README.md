@@ -1,31 +1,131 @@
-<h1 align="center">Hi 👋, I'm Rushikesh</h1>
-<h3 align="center">A passionate coder from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imrushikesh77&label=Profile%20views&color=0e75b6&style=flat" alt="imrushikesh77" /> </p>
-
-<p align="left"> <a href="https://twitter.com/imrushikesh77" target="blank"><img src="https://img.shields.io/twitter/follow/imrushikesh77?logo=twitter&style=for-the-badge" alt="imrushikesh77" /></a> </p>
-
-- 🌱 I’m currently learning **Backend development**
-
-- 📫 How to reach me **rushikeshjawale2004@gmail.com**
-- 🌐 Portfolio **https://imrushikesh77.github.io/Portfolio/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imrushikesh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrushikesh77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imrushikesh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imrushikesh77" height="30" width="40" /></a>
-<a href="https://instagram.com/imrushikesh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imrushikesh77" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/imrushikesh77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imrushikesh77" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/imrushikesh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="imrushikesh77" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imrushikesh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imrushikesh77" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/imrushikesh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imrushikesh77" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Monospace&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Rushikesh;Backend+Dev+%7C+AWS+Specialist;LeetCode+Knight+★+" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://imrushikesh77.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="Rushikesh_Jawale_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrushikesh77&show_icons=true&locale=en&layout=compact" alt="imrushikesh77" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrushikesh77&show_icons=true&locale=en" alt="imrushikesh77" /></p>
+## 🚀 Experience Spotlight
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrushikesh77&" alt="imrushikesh77" /></p>
+### **Software Engineering Intern** @ Catalinko Technologies
+_Mar 2024 - Apr 2024 | AWS | GraphQL | Serverless Architecture_
+- 🚀 Engineered Cart & Wishlist service boosting data retrieval by 50%
+- 🔗 Integrated React Native frontend with backend APIs
+- ⚡ Built serverless functions with AWS Lambda reducing infra costs
+- 🔐 Implemented GraphQL queries for optimized data fetching
+
+---
+
+## 💻 Featured Projects
+
+### **Link Reveal** | Go • Redis • Docker
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](Link)
+- 🔍 URL analysis with Google Safe Browsing API integration
+- 📸 Screenshot capture using headless browsers
+- ⚡ Redis caching reducing retrieval times by 70%
+- 🐳 Dockerized deployment architecture
+
+### **ExpressInit** | Node.js • React
+[![NPM](https://img.shields.io/badge/Demo-CC3534?style=flat-square&logo=npm)](Link)
+- 🛠️ Express.js project boilerplate generator
+- ⚡ Automated zip packaging system
+- 🎨 Spring Initializr-inspired interface
+- ⏱️ Reduced project setup time by 65%
+
+### **Authrm** | Node.js • JWT • OAuth
+[![NPM](https://img.shields.io/badge/Package-CB3837?style=flat-square&logo=npm)](Link)
+- 🔐 Authentication NPM package (250+ downloads)
+- 🛡️ JWT token generation & OAuth integration
+- 📚 Comprehensive developer documentation
+- 🧩 Modular architecture for easy integration
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Novice-007396?style=flat-square&logo=java&logoColor=white)
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=flat-square&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Databases**  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+
+---
+
+## 🏆 Coding Achievements
+<p align="center">
+  <div style="position: relative; display: inline-block;">
+    <!-- LeetCode Card -->
+    <a href="https://leetcode.com/imrushikesh77/">
+      <img src="https://leetcard.jacoblin.cool/imrushikesh77?theme=dark&font=Abel&ext=contest" width="100%">
+    </a>
+    <!-- CodeChef Card (positioned at top right) -->
+    <a href="https://www.codechef.com/users/imrushikesh77" style="position: absolute; top: 0; right: 0; transform: translateY(-50%);">
+      <img src="https://cp-logo.vercel.app/codechef/rahulsheth?logo=true" width="50%">
+    </a>
+  </div>
+</p>
+
+- 🏅 **LeetCode Knight** (Rating 1850+)
+- 🥇 CodeChef Global Rank **#39** (March Long Two 2022)
+- 🥉 ACM ICPC Mathura Preliminary **#401** (2023)
+- 📈 **1000+** Problems Solved Across Platforms
+
+---
+
+## 📚 Education
+
+**B.Tech in Information Technology**  
+_Walchand College of Engineering, Sangli_  
+Dec 2021 - May 2025 
+
+**Relevant Coursework:**  
+Algorithms & Data Structures • Computer Networks • DBMS  
+Operating Systems • OOP • Distributed Systems
+
+---
+
+<p align="center">
+  <a href="mailto:rushikeshjawale2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/imrushikesh77">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://codeforces.com/profile/imrushikesh77">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
+  </a>
+</p>
