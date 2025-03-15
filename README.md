@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imrushikesh77&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Monospace&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Rushikesh;Backend+Developer;LeetCode+Knight" alt="Typing SVG" />
 </p>
 
