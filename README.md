@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="kajutakli.vercel.app">
+  <a href="http://kajutakli.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="Rushikesh_Jawale_Resume.pdf">
